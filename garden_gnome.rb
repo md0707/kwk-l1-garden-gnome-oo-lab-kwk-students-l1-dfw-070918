@@ -9,4 +9,16 @@ def initialize(name, age, personality = "evil", hat_color = "red", gluten_allerg
   @gluten_allergy = gluten_allergy
 end
 
+def gnaw
+  puts "Gnawing on a tree!!!"
+end
+
+def shout
+  "GNARLY!!!"
+end
+
+def introduce_self(name, age)
+  puts 
+  
+
 

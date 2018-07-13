@@ -1,3 +1,3 @@
 class GardenGnome
   attr_reader
-  att
+  attr_writer
